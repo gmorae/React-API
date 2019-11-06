@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Rodape from './Rodape'
-import Card from './Card'
+import Rodape from './common/Rodape'
+import Card from './common/Card'
 
 function App() {
   return (
